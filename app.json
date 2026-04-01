@@ -7,6 +7,14 @@
       "output": "static"
     },
     "name": "moospayapp",
-    "slug": "moospayapp"
+    "slug": "moospayapp",
+    "extra": {
+      "eas": {
+        "projectId": "da8d67c2-2b85-4fee-808b-88b40f7e0706"
+      }
+    },
+    "android": {
+      "package": "com.onireti.moospayapp"
+    }
   }
 }
