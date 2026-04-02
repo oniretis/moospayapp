@@ -12,7 +12,7 @@ export default function App() {
       {/* Subheading */}
       <Text className="text-xl dark:text-white text-gray-700 mb-8 text-center leading-relaxed">
         Build beautiful apps with{" "}
-        <Text className="text-blue-500 font-semibold">
+        <Text className="text-red-500 font-semibold">
           Expo (Router) + Uniwind 🔥
         </Text>
       </Text>
